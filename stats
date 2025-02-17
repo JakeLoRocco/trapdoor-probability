@@ -1,0 +1,16 @@
+
+
+doors 100, elim 50
+SWITCHING: num won: 49993623; total sims: 100000000; percent: 0.49993623
+STAYING: num won: 49997821; total sims: 100000000; percent: 0.49997821
+
+
+doors 100, elim 15
+SWITCHING: num won: 84994141; total sims: 100000000; percent: 0.84994141
+STAYING: num won: 84996811; total sims: 100000000; percent: 0.84996811
+
+
+doors := 20
+numToElim := 10
+SWITCHING: num won: 49995342; total sims: 100000000; percent: 0.49995342
+STAYING: num won: 49995003; total sims: 100000000; percent: 0.49995003
